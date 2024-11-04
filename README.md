@@ -34,7 +34,7 @@ L'objectif de ce projet est de fournir une interface web où les membres d'un co
 - **login.php** : Page de connexion qui gère l'authentification des utilisateurs.
 - **me.php** : Page principale après connexion où les utilisateurs peuvent voir et modifier leurs informations personnelles.
 - **donnees.php** : Page pour traiter les modifications de mot de passe et de photo de profil.
-- **gestion_participants.php** : Page dédiée à la gestion des participants, permettant d'ajouter, modifier et supprimer des informations.
+- **gestion.php** : Page dédiée à la gestion des participants, permettant d'ajouter, modifier et supprimer des informations.
 - **recherche.php** : Page pour effectuer des recherches dans la base de données des participants et des compétitions.
 - **logout.php** : Gère la déconnexion des utilisateurs en détruisant la session.
 - **style.css** : Feuille de style pour la mise en forme du site.
